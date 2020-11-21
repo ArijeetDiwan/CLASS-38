@@ -1,2 +1,2 @@
-# CLASS-38
-car racing and database hard work
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
